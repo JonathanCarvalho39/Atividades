@@ -1,1 +1,1 @@
-<h3>Repositorio para entrega de Atividades</h3>
+<h3>Repositorio para entregas</h3>
