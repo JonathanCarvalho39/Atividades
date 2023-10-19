@@ -1,0 +1,23 @@
+#myChart {
+  width: 200%;
+  border: 2px solid #3498db;
+  border-radius: 8px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.5);
+  display: flex;
+}
+
+#myChart2 {
+  display: flex;
+  width: 200%;
+  border: 2px solid #3498db;
+  border-radius: 8px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.5);
+}
+
+.dashboard {
+  margin-top: 10%;
+  justify-content: center;
+  display: flex;
+  gap: 5%;
+  width: 100%;
+}
